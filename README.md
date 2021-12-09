@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amritpalsingh7190
 - 👀 I’m interested in ...frontend developer
 - 🌱 I’m currently learning ...html,css,js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... frontend worker
 - 📫 How to reach me ...8607689878
 
 <!---
